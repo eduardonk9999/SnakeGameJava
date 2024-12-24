@@ -1,5 +1,13 @@
 package org.example;
 
+
+import javax.management.InvalidApplicationException;
+
 public class Game {
-    // teste branch
+
+    public static void main(String[] args) {
+
+    }
+
+
 }
